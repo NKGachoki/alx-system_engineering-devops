@@ -4,3 +4,4 @@ File '2-groups' contains script to print all the groups that the current user is
 File '3-new_owner'contains script to change file ownership of 'hello' to different user, namely, betty
 File '4-empty' contains script to create empty file 'hello'
 File '5-execute' contains script to add execute permission to owner of file 'hello'
+File '6-multiple_permissions' contains script to add execute permission to owner and group owner whilst adding read permission to other users of file 'hello'
