@@ -7,3 +7,4 @@ File '5-execute' contains script to add execute permission to owner of file 'hel
 File '6-multiple_permissions' contains script to add execute permission to owner and group owner whilst adding read permission to other users of file 'hello'
 File '7-everybody' contains script to add execution permission to owner, group owner and other users of file 'hello'
 File '8-James_Bond' contains script to give rwx permissions to other users while denying all permissions to owner and group owner regarding file 'hello'
+File '9-John_Doe' contains script for -rwxr-x-wx permissions for file 'hello'
