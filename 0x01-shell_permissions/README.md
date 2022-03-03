@@ -11,3 +11,4 @@ File '9-John_Doe' contains script for -rwxr-x-wx permissions for file 'hello'
 File '10-mirror_permissions' contains script for copying file permissions'
 File '11-directories_permissions' contains script for that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 File '12-directory_permissions' contains script for creating directory 'my_dir' with permissions 751
+File '13-change_group'contains script to change group owner of file 'hello' to 'school'
