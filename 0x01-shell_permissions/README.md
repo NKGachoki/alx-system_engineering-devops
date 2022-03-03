@@ -9,3 +9,4 @@ File '7-everybody' contains script to add execution permission to owner, group o
 File '8-James_Bond' contains script to give rwx permissions to other users while denying all permissions to owner and group owner regarding file 'hello'
 File '9-John_Doe' contains script for -rwxr-x-wx permissions for file 'hello'
 File '10-mirror_permissions' contains script for copying file permissions'
+File '11-directories_permissions' contains script for that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
