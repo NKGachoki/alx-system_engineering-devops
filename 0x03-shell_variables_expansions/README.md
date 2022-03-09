@@ -7,3 +7,4 @@ File 5-local_variables contains script that lists all local variables, environme
 File 6-create_local_variable contains script to create new local variable
 File 7- create_global_variable contains script to create a new global variable
 File 8-true_knowledge contains script that prints the addition of 128 with value stored in env variable TRUEKNOWLEDGE, followed by new line
+File 9-divide_and_rule contains script that prints result of env variable POWER divided by env variable DIVIDE, followed by new line
