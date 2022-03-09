@@ -7,4 +7,5 @@ File 5-firstlines contains script to display first 10 lines of file /etc/passwd
 File 6-third_line contains script to display 3rd line in file iacta
 File 7-file contains script to create new file containing text
 File 8-cwd_state contains script to save current state of directory
-file 9-duplicate_last_line contains script to duplicate last line of file iacta 
+file 9-duplicate_last_line contains script to duplicate last line of file iacta
+File 10-no_more_js contains script to remove .js files 
