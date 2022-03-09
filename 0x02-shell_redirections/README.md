@@ -19,4 +19,5 @@ File 17-hidethisword contains script to display all lines in file /etc/passwd th
 File 18-letteronly contains script to display all files starting with letters
 file 19-AZ contains script to replace all characters A and cfrom input to Z and e respectively
 File 20-hiago contains script to remove all letters C and c from input
-File 21-reverse contains script to reverse its input  
+File 21-reverse contains script to reverse its input
+File 22-users_and_homes contains script to display all users and their home directories, sorted by users  
