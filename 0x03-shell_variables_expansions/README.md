@@ -11,3 +11,4 @@ File 9-divide_and_rule contains script that prints result of env variable POWER 
 File 10-love_exponent_breath contains that displays result of env variable BREATH  to the power of env variable LOVE
 File 11-binary_to_decimal contains script that converts a no. from base 2 to base 10
 File 12-combinations contains script that prints all possibla combinations of 2 letters, except oo
+File 13-print_float contains script thst prints no. with 2 decimal places 
