@@ -8,4 +8,5 @@ File 6-third_line contains script to display 3rd line in file iacta
 File 7-file contains script to create new file containing text
 File 8-cwd_state contains script to save current state of directory
 file 9-duplicate_last_line contains script to duplicate last line of file iacta
-File 10-no_more_js contains script to remove .js files 
+File 10-no_more_js contains script to remove .js files
+File 11-directories contains script to count no. of directories and subdirectories in current directory 
