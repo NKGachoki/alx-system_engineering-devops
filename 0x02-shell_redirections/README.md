@@ -11,4 +11,5 @@ file 9-duplicate_last_line contains script to duplicate last line of file iacta
 File 10-no_more_js contains script to remove .js files
 File 11-directories contains script to count no. of directories and subdirectories in current directory
 File 12-newest_files contains script to display 10 newest files in current directory
-File 13-unique contains script to print lines that appear once 
+File 13-unique contains script to print lines that appear once
+File 14-findthatword contains script to find lines containing pattern "root" in /etc/passwd file 
