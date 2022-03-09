@@ -5,4 +5,5 @@ File 3-twofiles contains answer to task 3
 File 4-lastlines contains answer to task 4
 File 5-firstlines contains script to display first 10 lines of file /etc/passwd
 File 6-third_line contains script to display 3rd line in file iacta
-File 7-file contains script to create new file containing text 
+File 7-file contains script to create new file containing text
+File 8-cwd_state contains script to save current state of directory 
