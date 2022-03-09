@@ -10,3 +10,4 @@ File 8-true_knowledge contains script that prints the addition of 128 with value
 File 9-divide_and_rule contains script that prints result of env variable POWER divided by env variable DIVIDE, followed by new line
 File 10-love_exponent_breath contains that displays result of env variable BREATH  to the power of env variable LOVE
 File 11-binary_to_decimal contains script that converts a no. from base 2 to base 10
+File 12-combinations contains script that prints all possibla combinations of 2 letters, except oo
