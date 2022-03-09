@@ -16,4 +16,5 @@ File 14-findthatword contains script to find lines containing pattern "root" in 
 File 15-countthatword contains script to display no. of lines with "bin" pattern in /etc/passwd file
 File 16-whatsnext contains script to display lines containing the "root" pattern and 3 lines after them in /etc/passwd file
 File 17-hidethisword contains script to display all lines in file /etc/passwd that don't contain "bin" pattern
-File 18-letteronly contains script to display all files starting with letters 
+File 18-letteronly contains script to display all files starting with letters
+file 19-AZ contains script to replace all characters A and cfrom input to Z and e respectively 
